@@ -2,12 +2,28 @@
 .navbar-custom {
     /* background-color:rgba(146, 185, 140, 0.89);
     
-    background-image: url('../../../media/collections/navbar.png'); */
+    background-image: url('/../../../media/collections/navbar.png'); */
     background-color:rgba(255, 255, 255, 0.8989);
 
 }
 
 .navbar-text {
+    background-color: rgb(38, 201, 89);
+    color:rgb(255, 255, 255)!important;
+    height:40px;
+    margin-top: 1px;
+    padding-top:4px;
+    margin-left:2px;
+    margin-right:2px;
+    border-radius: 15px;
+    border:rgb(255, 255, 255);
+    border-style: solid;
+    align-items: center;
+    vertical-align: middle;
+}
+
+
+.navbar-text:visited {
     background-color: rgb(38, 201, 89);
     color:rgb(255, 255, 255)!important;
     height:40px;
@@ -42,6 +58,8 @@
     border:#FAF0E6;
     width:50%;
  }
+
+
 
 .navbar-ul{
     border-radius: 20px;
@@ -99,18 +117,18 @@
 }
 .bg-white-page{
     /* background-color: rgba(154, 158, 153, 0.61); */
-    /* background-image: url('../../../media/collections/background_product.png'); */
+    /* background-image: url('/../../../media/collections/background_product.png'); */
     /* border-radius: 85% / 0 0 20% 100%; */
     background-color: white;
 }
 .bg-sofa{
-    background-image: url('../../../media/collections/background_sofa.png');
+    background-image: url('/../../../media/collections/background_sofa.png');
 
 
 }
 .img-product{
        /* background-color: rgba(154, 158, 153, 0.61); */
-    background-image: url('../../../media/collections/background_product.png');
+    background-image: url('/../../../media/collections/background_product.png');
     /* border-radius: 85% / 0 0 20% 100%; */
     /* background-color: white;  */
 }
@@ -160,7 +178,7 @@
 font-size:16px;
 }
 body{
-    background-image: url('../../../media/collections/white_hexa/19449741.jpg');
+    background-image: url('/../../../media/collections/white_hexa/19449741.jpg');
     /* background-color: aqua; */
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -174,7 +192,7 @@ footer*/
 .footer-custom {
      /* background-color:rgba(146, 185, 140, 0.89); */
     
-    background-image: url('../../../media/collections/footer.png'); 
+    background-image: url('/../../../media/collections/footer.png'); 
     /* background-color:rgba(255, 255, 255, 0.8989); */
 
 }
