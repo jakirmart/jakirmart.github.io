@@ -1,0 +1,8 @@
+hotmail
+username : jakirmart
+password : caracepat1
+
+
+github
+username : jakirmart@hotmail.com
+password  : caracepat1
